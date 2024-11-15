@@ -1,2 +1,2 @@
 # Nameless
-it's a gmae
+it's a game
